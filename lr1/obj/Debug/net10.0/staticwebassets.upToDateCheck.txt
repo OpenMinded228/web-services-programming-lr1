@@ -1,6 +1,69 @@
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\css\site.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.min.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\js\site.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\LICENSE.txt
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\favicon.ico
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\LICENSE.md
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
+wwwroot\lib\bootstrap\LICENSE
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -45,81 +108,18 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\LICENSE.txt
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
-wwwroot\lib\jquery\LICENSE.txt
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\css\site.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\favicon.ico
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\js\site.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\additional-methods.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\LICENSE.md
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.min.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.min.js
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\dist\jquery.slim.min.map
-E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\LICENSE.txt

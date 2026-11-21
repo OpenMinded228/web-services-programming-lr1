@@ -109,3 +109,11 @@ E:\Работы с колледжа\Програмування вебсерві�
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\lr1.genruntimeconfig.cache
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\ref\lr1.dll
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\lr1.csproj.Up2Date
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\lr1.sourcelink.json
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\MailKit.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\MimeKit.Core.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\lr1.Services.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\lr1.Services.pdb
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\lr1.csproj.AssemblyReference.cache
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll

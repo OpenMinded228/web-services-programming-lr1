@@ -1,6 +1,7 @@
 using lr1.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using lr1.Services;
 
 namespace lr1.Controllers
 {
@@ -20,6 +21,23 @@ namespace lr1.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        private readonly IEmailSender _emailSender;
+
+        public HomeController(IEmailSender emailSender)
+        {
+            _emailSender = emailSender;
+        }
+
+        public async Task<IActionResult> Send()
+        {
+            await _emailSender.SendEmailAsync(
+                "recipient@example.com",
+                "Test",
+                "Hello World!"
+            );
+
+            return Content("Email sent!");
         }
     }
 }
