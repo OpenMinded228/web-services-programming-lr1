@@ -1,13 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "pXdyWg59Rfc=",
+  "dgSpecHash": "hVBWeIzrXcc=",
   "success": true,
   "projectFilePath": "E:\\Работы с колледжа\\Програмування вебсервісів\\lr1\\lr1\\lr1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\mailkit\\5.0.0\\mailkit.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0\\microsoft.extensions.configuration.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging\\11.0.0\\microsoft.extensions.logging.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0\\microsoft.extensions.logging.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options\\11.0.0\\microsoft.extensions.options.11.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0\\microsoft.extensions.primitives.11.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\mimekit.core\\5.0.0\\mimekit.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\mimekit.core\\5.0.0\\mimekit.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\serilog\\4.4.0\\serilog.4.4.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\serilog.extensions.logging\\11.0.0\\serilog.extensions.logging.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0\\system.diagnostics.diagnosticsource.11.0.0.nupkg.sha512"
   ],
   "logs": []
 }

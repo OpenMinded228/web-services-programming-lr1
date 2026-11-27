@@ -1,0 +1,17 @@
+2026-11-27 04:45:35.798 +02:00 [INF] User profile is available. Using 'C:\Users\PC\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-11-27 04:45:35.906 +02:00 [INF] Now listening on: https://localhost:7166
+2026-11-27 04:45:35.907 +02:00 [INF] Now listening on: http://localhost:5117
+2026-11-27 04:45:35.930 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-27 04:45:35.930 +02:00 [INF] Hosting environment: Development
+2026-11-27 04:45:35.930 +02:00 [INF] Content root path: E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1
+2026-11-27 04:45:36.398 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7166/ - null null
+2026-11-27 04:45:36.460 +02:00 [INF] Executing endpoint 'lr1.Controllers.HomeController.Index (lr1)'
+2026-11-27 04:45:36.477 +02:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr1.Controllers.HomeController (lr1).
+2026-11-27 04:45:36.483 +02:00 [INF] Executing ViewResult, running view Index.
+2026-11-27 04:45:36.534 +02:00 [INF] Executed ViewResult - view Index executed in 51.8278ms.
+2026-11-27 04:45:36.535 +02:00 [INF] Executed action lr1.Controllers.HomeController.Index (lr1) in 57.7898ms
+2026-11-27 04:45:36.535 +02:00 [INF] Executed endpoint 'lr1.Controllers.HomeController.Index (lr1)'
+2026-11-27 04:45:36.538 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7166/ - 200 null text/html; charset=utf-8 148.0718ms
+2026-11-27 04:45:36.552 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7166/_vs/browserLink - null null
+2026-11-27 04:45:36.559 +02:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7166/_framework/dotnet-browser-tools/connect - null null
+2026-11-27 04:45:36.577 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7166/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.4627ms

@@ -117,3 +117,12 @@ E:\Работы с колледжа\Програмування вебсерві�
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\lr1.csproj.AssemblyReference.cache
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Serilog.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Serilog.Sinks.File.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\System.Diagnostics.DiagnosticSource.dll

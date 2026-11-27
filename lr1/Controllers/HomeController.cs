@@ -1,10 +1,13 @@
 using lr1.Models;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 using lr1.Services;
+using Microsoft.AspNetCore.Mvc;
+using Serilog.Core;
+using System.Diagnostics;
 
 namespace lr1.Controllers
 {
+    
+
     public class HomeController : Controller
     {
         public IActionResult Index()
@@ -40,4 +43,5 @@ namespace lr1.Controllers
             return Content("Email sent!");
         }
     }
+
 }

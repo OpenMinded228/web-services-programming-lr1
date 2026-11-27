@@ -1,4 +1,5 @@
 ﻿using lr1.Services;
+using Serilog;
 
 public class Startup
 {
@@ -13,6 +14,26 @@ public class Startup
     {
         services.AddControllersWithViews();
 
+        string logPath = Path.Combine(
+            Directory.GetCurrentDirectory(),
+            "Logs"
+        );
+
+        Directory.CreateDirectory(logPath);
+
+        var logger = new LoggerConfiguration()
+            .MinimumLevel.Information()
+            .WriteTo.File(
+                Path.Combine(logPath, "log-.txt"),
+                rollingInterval: RollingInterval.Day
+            )
+            .CreateLogger();
+
+        services.AddLogging(logging =>
+        {
+            logging.ClearProviders();
+            logging.AddSerilog(logger, dispose: true);
+        });
         services.AddTransient<IEmailSender>();
     }
 

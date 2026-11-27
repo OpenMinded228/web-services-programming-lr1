@@ -39,7 +39,7 @@ namespace lr1.Services
                 );
 
             await smtp.AuthenticateAsync(
-                settings["Email"],
+                settings["Email"],  
                 settings["Password"]
                 );
             await smtp.SendAsync(mail);
