@@ -1,0 +1,19 @@
+﻿@model lr1.Models.User
+
+<h2>Проверка данных</h2>
+
+<form asp-action="Validate" method="post">
+    <div>
+        <label asp-for="Name">Ім’я</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" />
+    </div>
+
+    <button type="submit">Перевірити</button>
+</form>
+
+<div asp-validation-summary="All"></div>

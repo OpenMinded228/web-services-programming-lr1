@@ -1,5 +1,7 @@
 ﻿using lr1.Services;
 using Serilog;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 
 public class Startup
 {
@@ -13,6 +15,8 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddControllersWithViews();
+        services.AddFluentValidationAutoValidation();
+        services.AddValidatorsFromAssemblyContaining<Startup>();
 
         string logPath = Path.Combine(
             Directory.GetCurrentDirectory(),

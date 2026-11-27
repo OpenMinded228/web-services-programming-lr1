@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hVBWeIzrXcc=",
+  "dgSpecHash": "SW9BxIYbMHs=",
   "success": true,
   "projectFilePath": "E:\\Работы с колледжа\\Програмування вебсервісів\\lr1\\lr1\\lr1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\mailkit\\5.0.0\\mailkit.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0\\microsoft.extensions.configuration.abstractions.11.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
