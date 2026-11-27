@@ -1,13 +1,10 @@
 using lr1.Models;
 using lr1.Services;
 using Microsoft.AspNetCore.Mvc;
-using Serilog.Core;
 using System.Diagnostics;
 
 namespace lr1.Controllers
 {
-    
-
     public class HomeController : Controller
     {
         public IActionResult Index()
@@ -41,6 +38,31 @@ namespace lr1.Controllers
             );
 
             return Content("Email sent!");
+        }
+        
+        [HttpGet]
+        public IActionResult Upload()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Upload(IFormFile file)
+        {
+            string path = Path.Combine(
+                Directory.GetCurrentDirectory(),
+                "wwwroot/Files",
+                file.FileName
+            );
+
+            Directory.CreateDirectory("wwwroot/Files");
+
+            using (var stream = new FileStream(path, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            return Content("Файл завантажено успішно");
         }
     }
 

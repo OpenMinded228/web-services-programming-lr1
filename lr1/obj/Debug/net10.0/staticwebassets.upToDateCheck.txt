@@ -37,6 +37,7 @@ E:\Работы с колледжа\Програмування вебсерві�
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery\LICENSE.txt
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\Files\tree-solid-full.svg
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
@@ -60,6 +61,7 @@ E:\Работы с колледжа\Програмування вебсерві�
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\jquery-validation\LICENSE.md
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\Files\tree-solid-full.svg
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

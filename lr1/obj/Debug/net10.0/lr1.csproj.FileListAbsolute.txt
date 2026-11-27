@@ -126,3 +126,4 @@ E:\Работы с колледжа\Програмування вебсерві�
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\Serilog.Sinks.File.dll
 E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\bin\Debug\net10.0\System.Diagnostics.DiagnosticSource.dll
+E:\Работы с колледжа\Програмування вебсервісів\lr1\lr1\obj\Debug\net10.0\compressed\nf5bjx2nfy-{0}-vexmojn307-vexmojn307.gz
